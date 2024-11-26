@@ -1,7 +1,4 @@
 # Resumo sobre Microsoft Azure
-Aqui está um resumo dos tópicos solicitados sobre a Microsoft Azure e computação em nuvem:  
-
----
 
 ### **1. Definir Computação em Nuvem**  
 A computação em nuvem é o fornecimento de serviços de TI, como servidores, armazenamento, bancos de dados, redes, software, e análises, via internet (“a nuvem”), em vez de serem locais. Ela oferece escalabilidade, flexibilidade e economia de custos, permitindo que empresas acessem recursos sob demanda sem a necessidade de adquirir e manter infraestrutura física.  
